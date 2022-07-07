@@ -58,7 +58,7 @@
         <javax.ws.rs.version>1.0.1.Final</javax.ws.rs.version>
         <javers.version>3.11.1</javers.version>
         <jaxb.version>2.3.0.1</jaxb.version>
-        <jetty.version>9.4.26.v20200117</jetty.version>
+        <jetty.version>10.0.10</jetty.version>
         <jgit.version>5.2.0.201812061821-r</jgit.version> <!-- updating requires some changes in how the auth is set up in ITs -->
         <jooq.version>3.14.0</jooq.version>
         <jsch.version>0.1.55</jsch.version>
